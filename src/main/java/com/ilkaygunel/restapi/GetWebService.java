@@ -21,6 +21,8 @@ public class GetWebService {
 		driverList.add(sebastian);
 		FormulaOneDriver kubica = new FormulaOneDriver("Robert", "Kubica");
 		driverList.add(kubica);
+		FormulaOneDriver test = new FormulaOneDriver("testName", "testLastName");
+		driverList.add(kubica);
 
 		return driverList;
 	}

@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: HerokuDemoProject
+Implementation-Version: 1.0.0
+Built-By: onuraltunsoy
+Implementation-Vendor-Id: com.ilkaygunel
+Build-Jdk: 1.8.0_151
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/HerokuDemoProject
+Created-By: Maven Integration for Eclipse
+
